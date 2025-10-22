@@ -32,7 +32,7 @@
 
 ### 📫 Let's Connect!
 🌐 [LinkedIn](linkedin.com/in/sharwa-hodgar-12a839259/)  
-📧 **sharwahodgar@gmail.com**  
+📧 **sharwahodgar2030@gmail.com**  
 🐙 [GitHub](https://github.com/sharwahodgar)  
 
 ---
