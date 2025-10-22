@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Sharwa Hodgar!
 
-<!--
-**sharwahodgar/sharwahodgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **Final Year IT Engineering Student** at *Amrutvahini College of Engineering*, passionate about **Data Science, Cloud Computing, AI, and Machine Learning**.  
+💻 Currently exploring **AWS** and **DevOps** projects.  
+🚀 DevOps Intern at **Elevate Labs**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+🌍 From **Maharashtra, India** 🇮🇳  
+🔭 Interned at **Godrej Infotech** as a **Data Analyst**  
+☁️ Earned **Google Cloud Arcade Badges**  
+✨ Working on projects like:
+- 🤖 **AI Interview System**
+- ⚙️ **CI/CD using Docker & Jenkins**
+- 📊 **Data Analytics Dashboards**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Python, Java, SQL  
+**Data Skills:** Pandas, NumPy, Matplotlib, Power BI, Excel  
+**Tools & Platforms:** AWS | MongoDB | Docker | Jenkins | GitHub Actions | GCP  
+
+---
+
+### 🏆 Achievements
+🥇 1st Prize – *Best IoT Project (Home Automation)*  
+
+---
+
+### 📫 Let's Connect!
+🌐 [LinkedIn](https://linkedin.com/in/YOUR_LINK)  
+📧 **sharwahodgar@gmail.com**  
+🐙 [GitHub](https://github.com/sharwahodgar)  
+
+---
+
+⭐ *“Turning ideas into innovation — from a small village dream to big tech reality.”*
