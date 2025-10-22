@@ -31,9 +31,9 @@
 ---
 
 ### 📫 Let's Connect!
-🌐 [LinkedIn](https://www.linkedin.com/in/sharwa-hodgar-12a839259/)
+🌐 [LinkedIn](https://www.linkedin.com/in/sharwa-hodgar-12a839259/)  
 📧 **sharwahodgar2030@gmail.com**  
-🐙 [GitHub](https://github.com/sharwahodgar)  
+🐙 [GitHub](https://github.com/sharwahodgar)
 
 ---
 
