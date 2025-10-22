@@ -31,10 +31,9 @@
 ---
 
 ### 📫 Let's Connect!
-🌐 [LinkedIn](https://linkedin.com/in/YOUR_LINK)  
+🌐 [LinkedIn](linkedin.com/in/sharwa-hodgar-12a839259/)  
 📧 **sharwahodgar@gmail.com**  
 🐙 [GitHub](https://github.com/sharwahodgar)  
 
 ---
 
-⭐ *“Turning ideas into innovation — from a small village dream to big tech reality.”*
