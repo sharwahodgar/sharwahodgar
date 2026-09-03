@@ -5,8 +5,8 @@
 </h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
-    <img src="https://www.linkedin.com/in/sharwa-hodgar-12a839259/">
+  <a href="linkedin.com/in/sharwa-hodgar-12a839259/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="YOUR_GITHUB">
     <img src="https://github.com/sharwahodgar">
