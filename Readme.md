@@ -15,6 +15,16 @@
 
 <img align="right" alt="Coding" width="380" src="\assets\girl.gif">
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharwahodgar&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharwahodgar&theme=tokyonight" />
+</p>
+
 ### 👩‍💻 About Me
 
 I'm a BE Information Technology student interested in building
