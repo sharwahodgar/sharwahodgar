@@ -27,18 +27,18 @@ problem-solving and technical skills.
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sharwahodgar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=sharwahodgar&show_icons=true&theme=tokyonight"
     alt="Sharwa's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sharwahodgar&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sharwahodgar&theme=tokyonight"
     alt="Sharwa's GitHub Streak"
   />
 </p>
