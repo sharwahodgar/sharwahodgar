@@ -61,7 +61,7 @@
   <img src="./assets/flask.png" width="50" alt="Flask">
   <img src="./assets/fastapi.png" width="50" alt="FastAPI">
   <img src="./assets/nlp.jpg" width="50" alt="nlp">
-  <img src="./assets/llm.png" width='85' alt="llm">
+  <img src="./assets/llm.png" width='50' alt="llm">
 
 
 </p>
