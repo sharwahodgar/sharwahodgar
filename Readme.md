@@ -33,12 +33,13 @@
 
 <p align="center">
   <img src="./assets/python.png" width="50" alt="Python">
-  <img src="./assets/mysql.png" width="70" alt="SQL">
-<img src="./assets/mssql.png" width="70" alt="SQL">
   <img src="./assets/pandas.png" width="70" alt="Pandas">
   <img src="./assets/numpy.png" width="75" alt="NumPy">
   <img src="./assets/matplotlib.png" width="60" alt="Matplotlib">
   <img src="./assets/seaborn.png" width="50" alt ="Seaborn">
+  <img src="./assets/mysql.png" width="70" alt="SQL">
+  <img src="./assets/mssql.png" width="70" alt="SQL">
+
 </p>
 
 <h3 align="center">Data Engineering & Cloud</h3>
@@ -50,6 +51,7 @@
   <img src="./assets/databricks.png" width="70" alt="databricks">
   <img src="./assets/ec2.png" width="50" alt="ec2">
   <img src="./assets/s3.png" width="50" alt="s3">
+  <img src="./assets/postgresql.jpg" width="50" alt="PostgresSQL">
 </p>
 
 <h3 align="center">AI / ML & Development</h3>
