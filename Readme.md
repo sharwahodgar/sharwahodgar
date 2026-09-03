@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="linkedin.com/in/sharwa-hodgar-12a839259/">
-    <img src="/assets/linkedin.png">
+    <img width='50' src="/assets/linkedin.png">
   </a>
   <a href="YOUR_GITHUB">
     <img src="https://github.com/sharwahodgar">
