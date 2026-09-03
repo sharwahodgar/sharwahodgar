@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <a href="linkedin.com/in/sharwa-hodgar-12a839259/">
+  <a href="https://www.linkedin.com/in/sharwa-hodgar-12a839259/" target="_blank">
     <img width='50' src="/assets/linkedin.png">
   </a>
   <a href="YOUR_GITHUB">
