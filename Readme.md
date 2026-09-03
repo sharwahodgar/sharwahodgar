@@ -46,9 +46,9 @@
 <p align="center">
   <img src="./assets/msfabric.jpg" width="50" alt="Microsoft Fabric">
   <img src="./assets/azuredf.png" width="75" alt="Azure Data Factory">
-  <img src="./assets/azuredls.png" width="75" alt="Azure Data Lake storage gen 2">
+  <img src="./assets/azuredls.png" width="55" alt="Azure Data Lake storage gen 2">
   <img src="./assets/databricks.png" width="70" alt="databricks">
-  <img src="./assets/ec2.png" width="70" alt="ec2">
+  <img src="./assets/ec2.png" width="50" alt="ec2">
   <img src="./assets/s3.png" width="50" alt="s3">
 </p>
 
