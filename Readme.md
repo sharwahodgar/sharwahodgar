@@ -8,6 +8,10 @@
   <a href="https://www.linkedin.com/in/sharwa-hodgar-12a839259/" target="_blank">
     <img src="./assets/linkedin.png" width="50" alt="LinkedIn">
   </a>
+
+  &nbsp;&nbsp;
+
+  <img src="https://komarev.com/ghpvc/?username=sharwahodgar&label=PROFILE+VIEWS&color=7aa2f7&style=flat-square" alt="Profile Views">
 </p>
 
 <img align="right" alt="Coding" width="250" src="./assets/girl.gif">
