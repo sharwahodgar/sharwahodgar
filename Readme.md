@@ -43,11 +43,11 @@
 
 <p align="center">
   <img src="./assets/msfabric.jpg" width="50" alt="Microsoft Fabric">
-  <img src="./assets/azuredl.png" width="50" alt="Azure Data Lake">
-  <img src="./assets/azuredl.png" width="50" alt="Azure Data Factory">
-  <img src="./assets/databricks.png" width="50" alt="Databricks">
-  <img src="./assets/ec2.png" width="50" alt="AWS EC2">
-  <img src="./assets/s3.png" width="50" alt="AWS S3">
+  <img src="./assets/azuredl.png" width="50" alt="azuredls">
+  <img src="./assets/azuredl.png" width="50" alt="azuredf">
+  <img src="./assets/databricks.png" width="50" alt="databricks">
+  <img src="./assets/ec2.png" width="50" alt="ec2">
+  <img src="./assets/s3.png" width="50" alt="s3">
 </p>
 
 <h3 align="center">AI / ML & Development</h3>
