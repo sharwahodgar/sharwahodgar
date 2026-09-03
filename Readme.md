@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/sharwa-hodgar-12a839259/" target="_blank">
     <img width='50' src="/assets/linkedin.png">
   </a>
-  <a href="YOUR_GITHUB">
-    <img src="https://github.com/sharwahodgar">
-  </a>
 </p>
 
 <img align="right" alt="Coding" width="380" src="\assets\girl.gif">
