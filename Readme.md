@@ -33,11 +33,11 @@
 
 <p align="center">
   <img src="./assets/python.png" width="50" alt="Python">
-  <img src="./assets/mysql.png" width="50" alt="SQL">
-<img src="./assets/mssql.png" width="50" alt="SQL">
+  <img src="./assets/mysql.png" width="70" alt="SQL">
+<img src="./assets/mssql.png" width="70" alt="SQL">
   <img src="./assets/pandas.png" width="70" alt="Pandas">
-  <img src="./assets/numpy.png" width="70" alt="NumPy">
-  <img src="./assets/matplotlib.png" width="50" alt="Matplotlib">
+  <img src="./assets/numpy.png" width="75" alt="NumPy">
+  <img src="./assets/matplotlib.png" width="60" alt="Matplotlib">
   <img src="./assets/seaborn.png" width="50" alt ="Seaborn">
 </p>
 
@@ -45,8 +45,8 @@
 
 <p align="center">
   <img src="./assets/msfabric.jpg" width="50" alt="Microsoft Fabric">
-  <img src="./assets/azuredf.png" width="70" alt="Azure Data Factory">
-  <img src="./assets/azuredls.png" width="70" alt="Azure Data Lake storage gen 2">
+  <img src="./assets/azuredf.png" width="75" alt="Azure Data Factory">
+  <img src="./assets/azuredls.png" width="75" alt="Azure Data Lake storage gen 2">
   <img src="./assets/databricks.png" width="70" alt="databricks">
   <img src="./assets/ec2.png" width="70" alt="ec2">
   <img src="./assets/s3.png" width="50" alt="s3">
@@ -55,13 +55,13 @@
 <h3 align="center">AI / ML & Development</h3>
 
 <p align="center">
-  <img src="./assets/jupyter.png" width="50" alt="Jupyter">
+  <img src="./assets/jupyter.png" width="40" alt="Jupyter">
   <img src="./assets/colab.jpg" width="75" alt="Google Colab">
   <img src="./assets/docker.png" width="50" alt="Docker">
   <img src="./assets/flask.png" width="50" alt="Flask">
   <img src="./assets/fastapi.png" width="50" alt="FastAPI">
   <img src="./assets/nlp.jpg" width="50" alt="nlp">
-  <img src="./assets/llm.png" width='75' alt="llm">
+  <img src="./assets/llm.png" width='85' alt="llm">
 
 
 </p>
