@@ -64,24 +64,28 @@ problem-solving and technical skills.
 
 ### ☁️ Data Engineering & Cloud
 
+<h3 align="center">☁️ Data Engineering & Cloud</h3>
+
 <p align="center">
-  <img src="./assets/msfabric.jpg" width="50" alt="Microsoft Fabric">
-  <img src="./assets/azuredf.png" width="75" alt="Azure Data Factory">
-  <img src="./assets/azuredls.png" width="55" alt="Azure Data Lake Storage Gen2">
-  <img src="./assets/databricks.png" width="70" alt="Databricks">
-  <img src="./assets/ec2.png" width="50" alt="AWS EC2">
-  <img src="./assets/s3.png" width="50" alt="Amazon S3">
-  <img src="./assets/postgresql.jpg" width="50" alt="PostgreSQL">
+  <img src="./assets/msfabric.jpg" height="55" alt="Microsoft Fabric">
+  <img src="./assets/azuredf.png" height="55" alt="Azure Data Factory">
+  <img src="./assets/azuredls.png" height="55" alt="Azure Data Lake Storage Gen2">
+  <img src="./assets/databricks.png" height="55" alt="Databricks">
+  <img src="./assets/ec2.png" height="55" alt="AWS EC2">
+  <img src="./assets/s3.png" height="55" alt="Amazon S3">
+  <img src="./assets/postgresql.jpg" height="55" alt="PostgreSQL">
 </p>
 
 ### 🤖 AI / ML & Development
 
+<h3 align="center">🤖 AI / ML & Development</h3>
+
 <p align="center">
-  <img src="./assets/jupyter.png" width="40" alt="Jupyter">
-  <img src="./assets/colab.jpg" width="75" alt="Google Colab">
-  <img src="./assets/docker.png" width="50" alt="Docker">
-  <img src="./assets/flask.png" width="50" alt="Flask">
-  <img src="./assets/fastapi.png" width="50" alt="FastAPI">
-  <img src="./assets/nlp.jpg" width="50" alt="NLP">
-  <img src="./assets/llm.png" width="50" alt="LLM">
+  <img src="./assets/jupyter.png" height="55" alt="Jupyter">
+  <img src="./assets/colab.jpg" height="55" alt="Google Colab">
+  <img src="./assets/docker.png" height="55" alt="Docker">
+  <img src="./assets/flask.png" height="55" alt="Flask">
+  <img src="./assets/fastapi.png" height="55" alt="FastAPI">
+  <img src="./assets/nlp.jpg" height="55" alt="NLP">
+  <img src="./assets/llm.png" height="55" alt="LLM">
 </p>
