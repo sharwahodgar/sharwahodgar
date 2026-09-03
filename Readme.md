@@ -27,6 +27,39 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharwahodgar&theme=tokyonight" />
 </p>
 
+<h2 align="center">🛠️ Skills & Tools</h2>
+
+<h3 align="center">Programming & Data</h3>
+
+<p align="center">
+  <img src="./assets/python.png" width="50" alt="Python">
+  <img src="./assets/sql.png" width="50" alt="SQL">
+  <img src="./assets/pandas.png" width="50" alt="Pandas">
+  <img src="./assets/numpy.png" width="50" alt="NumPy">
+  <img src="./assets/matplotlib.png" width="50" alt="Matplotlib">
+</p>
+
+<h3 align="center">Data Engineering & Cloud</h3>
+
+<p align="center">
+  <img src="./assets/msfabric.jpg" width="50" alt="Microsoft Fabric">
+  <img src="./assets/azuredl.png" width="50" alt="Azure Data Lake">
+  <img src="./assets/azuredl.png" width="50" alt="Azure Data Factory">
+  <img src="./assets/databricks.png" width="50" alt="Databricks">
+  <img src="./assets/ec2.png" width="50" alt="AWS EC2">
+  <img src="./assets/s3.png" width="50" alt="AWS S3">
+</p>
+
+<h3 align="center">AI / ML & Development</h3>
+
+<p align="center">
+  <img src="./assets/jupyter.png" width="50" alt="Jupyter">
+  <img src="./assets/colab.jpg" width="50" alt="Google Colab">
+  <img src="./assets/docker.png" width="50" alt="Docker">
+  <img src="./assets/flask.png" width="50" alt="Flask">
+  <img src="./assets/fastapi.png" width="50" alt="FastAPI">
+</p>
+
 ### 👩‍💻 About Me
 
 I'm a BE Information Technology student interested in building
