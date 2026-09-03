@@ -53,13 +53,13 @@ problem-solving and technical skills.
 ### 🐍 Programming & Data
 
 <p align="center">
-  <img src="./assets/python.png" width="60" height="60" alt="Python">
-  <img src="./assets/pandas.png" width="60" height="60" alt="Pandas">
-  <img src="./assets/numpy.png" width="60" height="60" alt="NumPy">
-  <img src="./assets/matplotlib.png" width="60" height="60" alt="Matplotlib">
-  <img src="./assets/seaborn.png" width="60" height="60" alt="Seaborn">
-  <img src="./assets/mysql.png" width="60" height="60" alt="MySQL">
-  <img src="./assets/mssql.png" width="60" height="60" alt="Microsoft SQL Server">
+  <img src="./assets/python.png" height="55" alt="Python">
+  <img src="./assets/pandas.png" height="55" alt="Pandas">
+  <img src="./assets/numpy.png" height="55" alt="NumPy">
+  <img src="./assets/matplotlib.png" height="55" alt="Matplotlib">
+  <img src="./assets/seaborn.png" height="55" alt="Seaborn">
+  <img src="./assets/mysql.png" height="55" alt="MySQL">
+  <img src="./assets/mssql.png" height="55" alt="Microsoft SQL Server">
 </p>
 
 ### ☁️ Data Engineering & Cloud
