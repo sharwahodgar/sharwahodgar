@@ -1,36 +1,45 @@
-<h1 align="center">Hi 👋, I'm Sharwa</h1>
+<h1 align="center">Hello, World! 🌍, I'm Sharwa 🙋‍♀️</h1>
 
 <h3 align="center">
-  BE Information Technology Student | Data Engineering | AI/ML | Cloud
-</h3>
+  BE IT Grad | Somewhere around data | Sometimes in the cloud | AI when an idea won't leave me alone 
+  </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sharwa-hodgar-12a839259/" target="_blank">
-    <img src="./assets/linkedin.png" width="50" alt="LinkedIn">
+    <img src="./assets/linkedin.png" height="45" alt="LinkedIn">
   </a>
 
   &nbsp;&nbsp;
 
-  <img src="https://komarev.com/ghpvc/?username=sharwahodgar&label=PROFILE+VIEWS&color=7aa2f7&style=flat-square" alt="Profile Views">
+  <a href="https://x.com/sharuzii" target="_blank">
+    <img src="./assets/x.jpg" height="45" alt="X">
+  </a>
+
+  &nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/Sharwa/" target="_blank">
+    <img src="./assets/leetcode.jpg" height="45" alt="LeetCode">
+  </a>
+
+  &nbsp;&nbsp;
+
+  <img
+    src="https://komarev.com/ghpvc/?username=sharwahodgar&label=PROFILE+VIEWS&color=7aa2f7&style=flat-square"
+    height="28"
+    alt="Profile Views"
+  >
 </p>
 
 <img align="right" alt="Coding" width="250" src="./assets/girl.gif">
 
-<br>
-
-## 👩‍💻 About Me
-
-I'm a BE Information Technology student interested in building
-**data-driven solutions** using **Python, SQL, Cloud, and AI/ML**.
-
-I'm currently focusing on **Data Engineering, Microsoft Fabric,
-Azure, and Generative AI**, while continuously strengthening my
-problem-solving and technical skills.
+- 🎓 BE Information Technology graduate passionate about building **data-driven solutions**
+- 🐍 Working with **Python, SQL, Cloud, and AI/ML**  - because apparently one field wasn't enough
+- ☁️ Currently exploring **Data Engineering, Microsoft Fabric, Azure, and Generative AI**
+- 💼 **Open to Work** — connect with me at **sharwahodgar2030@gmail.com**
 
 <br clear="right"/>
 
 ---
-
 ## 📊 My GitHub Stats
 
 <p align="center">
