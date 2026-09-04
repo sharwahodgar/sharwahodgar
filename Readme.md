@@ -4,35 +4,21 @@
   BE IT Grad | Somewhere around data | Sometimes in the cloud | AI when an idea won't leave me alone
 </h3>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/sharwa-hodgar-12a839259/" target="_blank">
-        <img src="./assets/linkedin.png" height="45" alt="LinkedIn">
-      </a>
-    </td>
-
-    <td align="center">
-      <a href="https://x.com/sharuzii" target="_blank">
-        <img src="./assets/x.jpg" height="45" alt="X">
-      </a>
-    </td>
-
-    <td align="center">
-      <a href="https://leetcode.com/u/Sharwa/" target="_blank">
-        <img src="./assets/leetcode.jpg" height="45" alt="LeetCode">
-      </a>
-    </td>
-
-    <td align="center">
-      <img
-        src="https://komarev.com/ghpvc/?username=sharwahodgar&label=PROFILE+VIEWS&color=7aa2f7&style=flat-square"
-        height="28"
-        alt="Profile Views"
-      >
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sharwa-hodgar-12a839259/">
+    <img src="./assets/linkedin.png" height="45" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/sharuzii">
+    <img src="./assets/x.jpg" height="45" alt="X">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Sharwa/">
+    <img src="./assets/leetcode.jpg" height="45" alt="LeetCode">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=sharwahodgar&label=PROFILE+VIEWS&color=7aa2f7&style=flat-square" height="28" alt="Profile Views">
+</p>
 
   <img
     src="https://komarev.com/ghpvc/?username=sharwahodgar&label=PROFILE+VIEWS&color=7aa2f7&style=flat-square"
