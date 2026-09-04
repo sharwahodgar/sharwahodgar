@@ -20,20 +20,15 @@
   <img src="https://komarev.com/ghpvc/?username=sharwahodgar&label=PROFILE+VIEWS&color=7aa2f7&style=flat-square" height="28" alt="Profile Views">
 </p>
 
-  <img
-    src="https://komarev.com/ghpvc/?username=sharwahodgar&label=PROFILE+VIEWS&color=7aa2f7&style=flat-square"
-    height="28"
-    alt="Profile Views"
-  >
-</p>
+
 
 <img align="right" alt="Coding" width="250" src="./assets/girl.gif">
 
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
-- 🎓 BE IT graduate — survived **assignments, deadlines & "it's working on my machine"**
-- 🐍 Working with **Python, SQL, Cloud & AI/ML** — because apparently one field wasn't enough
-- ☁️ Exploring **Data Engineering, Microsoft Fabric & Azure** — because apparently the cloud wasn't complicated enough
+- 🎓 BE IT Grad, now **prototyping my ideas with AI**
+- 🚀 **Future founder, maybe** — for now, just learning, building & upskilling
+- 🤖 Currently building **DataPilot**, an AI agent for working with data
 - 💼 **Open to Work** — connect with me at **sharwahodgar2030@gmail.com**
 
 <br clear="right"/>
