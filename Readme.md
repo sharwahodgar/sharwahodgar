@@ -1,8 +1,8 @@
 <h1 align="center">Hello, World! 🌍, I'm Sharwa 🙋‍♀️</h1>
 
 <h3 align="center">
-  BE IT Grad | Somewhere around data | Sometimes in the cloud | AI when an idea won't leave me alone 
-  </h3>
+  BE IT Grad | Somewhere around data | Sometimes in the cloud | AI when an idea won't leave me alone
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sharwa-hodgar-12a839259/" target="_blank">
@@ -32,27 +32,31 @@
 
 <img align="right" alt="Coding" width="250" src="./assets/girl.gif">
 
-- 🎓 BE Information Technology graduate passionate about building **data-driven solutions**
-- 🐍 Working with **Python, SQL, Cloud, and AI/ML**  - because apparently one field wasn't enough
-- ☁️ Currently exploring **Data Engineering, Microsoft Fabric, Azure, and Generative AI**
+### 👩‍💻 About Me
+
+- 🎓 BE IT graduate — survived **assignments, deadlines & "it's working on my machine"**
+- 🐍 Working with **Python, SQL, Cloud & AI/ML** — because apparently one field wasn't enough
+- ☁️ Exploring **Data Engineering, Microsoft Fabric & Azure** — because apparently the cloud wasn't complicated enough
 - 💼 **Open to Work** — connect with me at **sharwahodgar2030@gmail.com**
 
 <br clear="right"/>
 
 ---
+
 ## 📊 My GitHub Stats
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=sharwahodgar&show_icons=true&theme=tokyonight"
-  />
+    alt="Sharwa's GitHub Stats"
+  >
 </p>
 
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=sharwahodgar&theme=tokyonight"
     alt="Sharwa's GitHub Streak"
-  />
+  >
 </p>
 
 ---
@@ -73,8 +77,6 @@
 
 ### ☁️ Data Engineering & Cloud
 
-<h3 align="center">☁️ Data Engineering & Cloud</h3>
-
 <p align="center">
   <img src="./assets/msfabric.jpg" height="55" alt="Microsoft Fabric">
   <img src="./assets/azuredf.png" height="55" alt="Azure Data Factory">
@@ -86,8 +88,6 @@
 </p>
 
 ### 🤖 AI / ML & Development
-
-<h3 align="center">🤖 AI / ML & Development</h3>
 
 <p align="center">
   <img src="./assets/jupyter.png" height="55" alt="Jupyter">
