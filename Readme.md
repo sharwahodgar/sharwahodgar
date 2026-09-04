@@ -22,9 +22,7 @@
 
 
 
-<img align="right" alt="Coding" width="250" src="./assets/girl.gif">
-
-## 👩‍💻 About Me
+<img align="right" alt="Coding" width="220" src="./assets/cat.gif">
 
 - 🎓 BE IT Grad, now **prototyping my ideas with AI**
 - 🚀 **Future founder, maybe** — for now, just learning, building & upskilling
